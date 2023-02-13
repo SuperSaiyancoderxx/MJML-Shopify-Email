@@ -1,0 +1,39 @@
+<mj-raw>
+  <!--Start of Footer-->
+</mj-raw>
+<mj-wrapper css-class="footer" padding="0 40px">
+            <mj-section css-class="dark-img light-img">
+              <mj-group css-class="icons-size">
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/B4kLS8h/fb.png" href="https://www.facebook.com/" padding="0 5px" width="27px" height="27px" alt="facebook icon">
+                </mj-column>
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/HYY0XSw/tw.png" href="https://www.twitter.com/" padding="0 5px" width="27px" height="27px" alt="twotter icon">
+                </mj-column>
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/bbM53bf/insta.png" href="https://www.instagram.com/" padding="0 5px" width="27px" height="27px" alt="instagram icon">
+                </mj-column>
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/0QRy3zp/snap.png" href="https://www.snapchat.com/" padding="0 5px" width="27px" height="27px" alt="snapchat icon">
+                </mj-column>
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/YhRpZLc/in.png" href="https://www.linkedin.com/" padding="0 5px" width="27px" height="27px" alt="linkedin icon">
+                </mj-column>
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/Tczygns/pin.png" href="https://www.pinterest.com/" padding="0 5px" width="27px" height="27px" alt="pinterest icon">
+                </mj-column>
+                <mj-column>
+                  <mj-image src="https://i.ibb.co/jrL6Pks/yt.png" href="https://www.youtube.com/" padding="0 5px" width="27px" height="27px" alt="youtube icon">
+                </mj-column>
+              </mj-group>
+            </mj-section>
+            <mj-section padding="20px 0 50px">
+              <mj-column padding="0">
+                <mj-text line-height="20px" align="center" font-size="12px" color="#000000" font-weight="medium"
+                font-family="sans-serif">© Shopify, 151 O'Conner Street, Ground floor,
+                Ottawa ON, K2P 2L8</mj-text>
+                <mj-text line-height="20px" align="center" font-size="12px" color="#000000" font-weight="medium"
+                font-family="sans-serif"><a href="#" class="footer-link">Unsubscribe</a>  |  Manage your email preferences</mj-text>
+              </mj-column>
+            </mj-section>
+          </mj-wrapper>
